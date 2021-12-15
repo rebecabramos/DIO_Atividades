@@ -1,0 +1,16 @@
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\instrucoes.exe
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\instrucoes.deps.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\instrucoes.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\instrucoes.runtimeconfig.dev.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\instrucoes.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\ref\instrucoes.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\bin\Debug\net5.0\instrucoes.pdb
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\ref\instrucoes.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.pdb
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\instrucoes\obj\Debug\net5.0\instrucoes.genruntimeconfig.cache
