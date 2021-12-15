@@ -1,0 +1,16 @@
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\boasVindas.exe
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\boasVindas.deps.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\boasVindas.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\boasVindas.runtimeconfig.dev.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\boasVindas.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\ref\boasVindas.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\bin\Debug\net5.0\boasVindas.pdb
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\ref\boasVindas.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.pdb
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\boasVindas\obj\Debug\net5.0\boasVindas.genruntimeconfig.cache
