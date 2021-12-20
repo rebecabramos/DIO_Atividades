@@ -1,0 +1,16 @@
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\exemploPOO.exe
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\exemploPOO.deps.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\exemploPOO.runtimeconfig.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\exemploPOO.runtimeconfig.dev.json
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\exemploPOO.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\ref\exemploPOO.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\bin\Debug\net5.0\exemploPOO.pdb
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.csproj.AssemblyReference.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.AssemblyInfoInputs.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.AssemblyInfo.cs
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\ref\exemploPOO.dll
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.pdb
+C:\Users\rebec\Documents\GitHub\DIO_Atividades\POO\exemploPOO\obj\Debug\net5.0\exemploPOO.genruntimeconfig.cache
