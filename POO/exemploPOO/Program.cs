@@ -9,8 +9,8 @@ namespace exemploPOO
         {
             Pessoa p1 = new Pessoa();
 
-            p1.Nome = "Bob";
-            p1.Idade = 20;
+            p1.Nome = "Rebeca Raab";
+            p1.Idade = 22;
 
             p1.Apresentar();
         }
